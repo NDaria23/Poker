@@ -16,7 +16,8 @@ Abati, Nicolini e Metta hanno lavorato intensamente. Alushi e Dediu sembra un po
 ## COMPITI
 1. NDaria23: Creare uno splash-screen. Dovrà mostrare ilnome, il logo, e una barra di reimimento che "simula" il caricamento dei dati (lo farà davveno nella versione definitiva). Deve essere la prima cosa che il programma mostra. Pur essendoci un errore che sepero si risolva puoi lavorare lo stesso perché la tua parte è (o dovrebbe) essere indipendente dal resto del programma.  
  
-2. Pisciman: Nel tavolo visualizzare una fiche, quindi mostrare al suo interno il valore dei soldi ancora disponibli. Inoltre il nome del giocatore deve apparire sopra alla fiche. Non fare la fisce troppo grande che in prospettiva ce ne devono essere 4 
+2. Pisciman: Nel tavolo visualizzare una fiche, quindi mostrare al suo interno il valore dei soldi ancora disponibli. Inoltre il nome del giocatore deve apparire sopra alla fiche. Non fare la fisce troppo grande che in prospettiva ce ne devono essere 4. [UPDATE]: IN GENERALE VA BENE, PERD' DENTRO ALLA FICHE IN BASSO ADESTRA DOVREBBE APPARIRE IL NUMERO DEI SOLDI RIMASTI, NON 100 CHE EVIDENTEMENTE E' PRESENTE NELL'IMMAGINE. ALTRIMENTI NON SERVE. QUELLI CON IL PUNTO INTERROGATIVO VANNO BENE, BUONA IDEA. Se puoi aggiungi il tuo nome tra gli autori e metti un commentino nel sorgente dove hai fatto modifiche.
+
 
 Come già detto, se non si vede il contributo su Github, il contributo non c'e. Meglio se usate commenti signficativi nei commit.
 
